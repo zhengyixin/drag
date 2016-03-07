@@ -1,0 +1,10 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#drag{
+	width: 200px;
+	height: 200px;
+	background: pink;
+	position: absolute;
+}
